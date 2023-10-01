@@ -1,2 +1,2 @@
 # Full-Stack-Javascript
-Contém conteúdo de aprendizado do curso Full Stack JavaScript - Onebitcode
+Contains learning content from the Full Stack JavaScript course - OneBitCode
