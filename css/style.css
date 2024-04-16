@@ -1,0 +1,36 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-image: url(../../img/backgroundLp.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right;
+  color: white;
+  min-width: 100%;
+  min-height: 100vh;
+}
+
+.container1 {
+  background-color: rgba(19, 18, 18, 0.9450980392);
+  width: 450px;
+  height: auto;
+}
+
+.topLogo {
+  width: 12rem;
+  margin: 2rem;
+}
+
+.footer {
+  margin-top: 5rem;
+}
+
+.footer a {
+  color: red;
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=style.css.map */
